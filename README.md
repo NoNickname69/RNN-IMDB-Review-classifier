@@ -72,6 +72,10 @@ streamlit run main.py
 
 Then open your browser at `http://localhost:8501`, type in any movie review, and hit **Classify**.
 
+Or, to run on your browser go to:
+
+https://ekacnji2qsix4jj7zqkwkf.streamlit.app/
+
 ---
 
 ## 📓 Notebooks
@@ -107,10 +111,6 @@ The model was trained for 10 epochs with a validation split of 20%.
 
 - `relu` activation in SimpleRNN can cause gradient explosion — use `tanh` instead
 - Adding `Dropout` will reduce overfitting
-- Upgrading to an LSTM or GRU would significantly improve accuracy
+- Upgrading to an LSTM or GRU would significantly improve accuracy and context understanding
 
 ---
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
