@@ -74,7 +74,7 @@ Then open your browser at `http://localhost:8501`, type in any movie review, and
 
 Or, to run on your browser go to:
 
-https://ekacnji2qsix4jj7zqkwkf.streamlit.app/
+`https://ekacnji2qsix4jj7zqkwkf.streamlit.app/`
 
 ---
 
